@@ -1,0 +1,12 @@
+C:\my-projects\my-project\src\main\java\com\local\example\SpringBootCrudExample2Application.java
+C:\my-projects\my-project\src\main\java\com\local\example\controller\ProductController.java
+C:\my-projects\my-project\src\main\java\com\local\example\service\CustomUserDetailsService.java
+C:\my-projects\my-project\src\main\java\com\local\example\service\UserService.java
+C:\my-projects\my-project\src\main\java\com\local\example\repository\UserRepository.java
+C:\my-projects\my-project\src\main\java\com\local\example\controller\UserController.java
+C:\my-projects\my-project\src\main\java\com\local\example\service\ProductService.java
+C:\my-projects\my-project\src\main\java\com\local\example\repository\ProductRepository.java
+C:\my-projects\my-project\src\main\java\com\local\example\config\SecurityConfig.java
+C:\my-projects\my-project\src\main\java\com\local\example\entity\User.java
+C:\my-projects\my-project\src\main\java\com\local\example\entity\Product.java
+C:\my-projects\my-project\src\main\java\com\local\example\model\UserDTO.java

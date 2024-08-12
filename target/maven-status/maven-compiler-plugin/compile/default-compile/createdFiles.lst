@@ -1,0 +1,12 @@
+com\local\example\service\UserService.class
+com\local\example\service\CustomUserDetailsService.class
+com\local\example\model\UserDTO.class
+com\local\example\entity\User.class
+com\local\example\SpringBootCrudExample2Application.class
+com\local\example\controller\ProductController.class
+com\local\example\config\SecurityConfig.class
+com\local\example\entity\Product.class
+com\local\example\controller\UserController.class
+com\local\example\service\ProductService.class
+com\local\example\repository\ProductRepository.class
+com\local\example\repository\UserRepository.class
